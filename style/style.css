@@ -1,0 +1,134 @@
+/* header style */
+.nerko_one_regular {
+  font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 32px;
+  line-height: 32px;
+  letter-spacing: 0.005em;
+  color: #FFFFFF;
+}
+header{
+  width: 1440px;
+  background-color: #2A9D8F;
+  margin: auto;
+  padding: 38px 130px;
+}
+.main_header_logo{
+  display: inline-block;
+  width: 46px;
+  height: 46px;
+  vertical-align: middle;
+}
+.header_nav{
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 689px;
+}
+.header_nav_ul_li{
+  display: inline-block;
+}
+.header_li_margin{
+  margin-inline: 80px;
+}
+
+/* section style */
+section{
+  width: 1440px;
+  margin: auto;
+  background-color: #D4F3F0;
+  vertical-align: top;
+}
+.main_section_img{
+padding-top: 80px ;
+padding-left: 130px;
+}
+.child_section{
+  display: inline-block;
+  width: 460px;
+  margin: 80px 120px; 
+}
+.section_title{
+  font-family: "Kanit", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 0.005em;
+  text-align: left;
+  margin-bottom: 32px;
+}
+.kanit_font{
+  font-family: "Kanit", sans-serif;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 275;
+  line-height: 27px;
+  letter-spacing: 0.005em;
+  width: 457px;
+}
+.child_section_button{
+  width: 112px;
+  height: 46px;
+  background-color: #2A9D8F;
+  border: none;
+  margin-top: 60px;
+
+}
+/* article */
+article{
+  width: 1180px;
+  margin: 80px auto;
+}
+.article_title{
+  font-family: "Kanit", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: 0.005em;
+  text-align: center;
+  color: #06686E;
+  margin-bottom: 32px;
+}
+.article_description{
+  font-family: "Kanit", sans-serif ;
+  font-size: 24px;
+  font-weight: 275;
+  line-height: 36px;
+  letter-spacing: 0.005em;
+  color: #06686E;
+  text-align: justify;
+}
+/* footer */
+footer{
+  width: 1440px;
+  margin: auto;
+  background-color: #2A9D8F;
+}
+.footer_title{
+  font-family: "Kanit", sans-serif ;
+  width: 149px;
+  margin: auto; 
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 40px;
+  text-align: left;
+  color: #FFFFFF;
+  padding-block: 40px;
+}
+.footer_nav{
+  width: 168px;
+  margin:auto;
+}
+.footer_nav_link{
+  display: inline-block;
+  height: 19px;
+  margin-bottom: 40px;
+}
+.footer_nav_link_img{
+  width: 100%;
+  height: 100%;
+}
+.footer_nav_link_margin{
+  margin-inline: 20px;
+}
+/* vici ro footershi shecdomebi maq ubralod 2:20 ia vegar gavagrdzeleb iq gavarkviot <3  */
